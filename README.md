@@ -17,7 +17,6 @@ I'm a computer science student at **Amity University, Ranchi**, exploring the va
 
 ---
 
-> 📫 Feel free to connect or collaborate!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024005292274) 
