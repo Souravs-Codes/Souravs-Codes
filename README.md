@@ -46,11 +46,19 @@ I'm a computer science student at **Amity University, Ranchi**, exploring the va
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souravs-Codes&theme=tokyonight&hide_border=false)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souravs-Codes&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souravs-Codes&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/👨‍💻_Total_Contributions_(Public_+_Private)-400%2B-success?style=for-the-badge&logo=github" alt="Total Contributions Badge"/>
-</p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Souravs-Codes/Souravs-Codes/main/total-contributions.png" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravs-Codes&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
