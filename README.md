@@ -1,8 +1,23 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+There+👋,+I'm+Sourav+Mukherjee!;🚀+Passionate+about+Machine+Learning;🤖+Enthusiast+in+Artificial+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+There+👋,+I'm+SAMMY!;🚀+Passionate+about+Machine+Learning;🤖+Enthusiast+in+Artificial+Intelligence" alt="Typing SVG" />
 </p>
 
 ---
+# 👋 Hello, I'm Sourav Mukherjee!
+
+I'm a computer science student at **Amity University, Ranchi**, exploring the vast and dynamic world of **Artificial Intelligence** and **Machine Learning**. I'm deeply curious about how intelligent systems can solve real-world problems — especially those that matter in the context of **India’s development**.
+
+- 🎓 Currently pursuing my degree in computer science  
+- 🤖 Learning and building with AI/ML technologies like **TensorFlow**, **PyTorch**, and **Scikit-learn**  
+- 🧠 Exploring areas such as **deep learning**, **NLP**, **computer vision**, and **data science**  
+- 📚 Continuously improving my skills through projects, research papers, and open-source contributions  
+- 🌏 Passionate about applying AI for social good and real-world impact  
+- 🚀 **Long-term goal**: To lead and develop a **major AI-based project** that drives meaningful progress in **India's technological and social development**  
+- 🛠️ Currently working on small but practical AI/ML projects – stay tuned for more on my GitHub!
+
+---
+
+> 📫 Feel free to connect or collaborate!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024005292274) 
