@@ -10,7 +10,7 @@ I'm a computer science student at **Amity University, Ranchi**, exploring the va
 - 🎓 Currently pursuing my degree in computer science  
 - 🤖 Learning and building with AI/ML technologies like **TensorFlow**, **PyTorch**, and **Scikit-learn**  
 - 🧠 Exploring areas such as **deep learning**, **NLP**, **computer vision**, and **data science**  
-- 📚 Continuously improving my skills through projects, research papers, and open-source contributions  
+- 📚 Continuously improving my skills through projects  
 - 🌏 Passionate about applying AI for social good and real-world impact  
 - 🚀 **Long-term goal**: To lead and develop a **major AI-based project** that drives meaningful progress in **India's technological and social development**  
 - 🛠️ Currently working on small but practical AI/ML projects – stay tuned for more on my GitHub!
