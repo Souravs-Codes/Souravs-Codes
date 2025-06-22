@@ -87,7 +87,7 @@ I'm a computer science student at **Amity University, Ranchi**, exploring the va
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
 
----
+--
 
 ## 🔝 Top Contributed Repos
 
